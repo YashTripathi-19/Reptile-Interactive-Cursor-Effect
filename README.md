@@ -1,6 +1,9 @@
 # Reptile-Interactive-Cursor-Effect
 A cool interactive reptile animation built with HTML and JS  — where a reptile smoothly follows your cursor across the screen. A creative mix of logic and visuals that turns your cursor into a playful experience.
 
+---
+play it live on : [https://reptile-interactive-cursor-effect.vercel.app](https://reptile-interactive-cursor-effect.vercel.app)
+
 ## 🌟 Features
 - 🦎 Real-time reptile movement that tracks your cursor  
 - 🎥 Smooth animations with pure JS logic  
